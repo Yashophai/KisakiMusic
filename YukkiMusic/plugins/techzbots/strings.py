@@ -26,10 +26,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/AkenoOfficial"
+                text="📣 Updates Channel", url="https://t.me/AviaxOfficial"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="t.me/AkenoOfficialchat"
+                text="💬 Support Group", url="https://t.me/+EgEq9oGRdYhhNjQx"
             ),                       
         ],
     ]
@@ -48,10 +48,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/AkenoOfficial"
+                text="📣 Updates Channel", url="https://t.me/AviaxOfficial"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="t.me/AkenoOfficialchat"
+                text="💬 Support Group", url="https://t.me/+EgEq9oGRdYhhNjQx"
             ),                       
         ],
     ]
